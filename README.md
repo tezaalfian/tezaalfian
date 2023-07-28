@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezaalfian&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezaalfian)](https://github.com/anuraghazra/github-readme-stats)
 
-![tezaalfian's github stats](https://github-readme-stats.vercel.app/api?username=tezaalfian&show_icons=true&theme=transparent)
 <!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tezaalfian&layout=compact&&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![tezaalfian's github stats](https://github-readme-stats.vercel.app/api?username=tezaalfian&show_icons=true&theme=transparent)
 [![tezaalfian's github stats](https://github-readme-stats.vercel.app/api?username=tezaalfian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 -->
